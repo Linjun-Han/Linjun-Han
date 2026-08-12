@@ -81,10 +81,5 @@
 
 ---
 
-## 📊 GitHub 统计
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linjun-Han&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 *⚡ 始终相信：物流不仅是物的流动，更是数据与智慧的流动。*
